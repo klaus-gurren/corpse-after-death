@@ -26,7 +26,6 @@
 3. The corpse is automatically deleted from the server after 10 minutes. <br>
 4. If the player dies again, if there is already a corpse under the player, the previously created one is deleted before the timer expires. <br>
 5. The maximum number of corpses is 300 (if necessary, you can increase it in the macro, but not more than 900).
-More details in the video. <br>
  </sup>
   </p>
 
@@ -45,8 +44,7 @@ More details in the video. <br>
 2. Випадіння зброї, послідовна номерація виходячи із слотів з можливістю лута по патрону. <br>
 3. Труп автоматично видаляється через 10 хв із сервера. <br>
 4. При повторній смерті якщо під гравця вже є труп, раніше створений видаляється ще до завершення таймера. <br>
-5. Максимальна кількість трупів 300 (при потребі в макросі можна збільшити, тільки не більше 900). <br>
-Більш детально на відео.
+5. Максимальна кількість трупів 300 (при потребі в макросі можна збільшити, тільки не більше 900).
 
   </sup>
   </p>
