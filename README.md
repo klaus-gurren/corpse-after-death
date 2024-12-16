@@ -21,7 +21,7 @@
   </h2>
 
   <p align="center">
-    <sup>1. The first search of the corpse takes some time (2.7s).
+    <sup>1. The first search of the corpse takes some time (2.7s). <br>
 2. Weapons drop, sequential numbering based on slots with the possibility of looting per cartridge.
 3. The corpse is automatically deleted from the server after 10 minutes.
 4. If the player dies again, if there is already a corpse under the player, the previously created one is deleted before the timer expires.
