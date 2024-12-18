@@ -200,4 +200,3 @@ cmd:wander(playerid) //сама команда
 	SetTimerEx("SearchBody", SEARCH_CORPSE, false, "i", playerid);
 	return 1;
 }
-//перевірка
